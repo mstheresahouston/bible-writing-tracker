@@ -99,3 +99,8 @@
   </script>
 </body>
 </html>
+git add .
+git commit -m "Add badge system, refine progress logic, style enhancements"
+git push origin main
+git pull origin main
+"added badge milestones and chapter tracking enhancements"
